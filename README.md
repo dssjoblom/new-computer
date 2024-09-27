@@ -24,7 +24,7 @@ OS: Ubuntu Linux (22/24)
 
 `chsh -s /bin/zsh`
 
-Reboot the system
+Reboot the system.
 
 # Set up a firewall
 
