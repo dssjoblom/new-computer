@@ -50,3 +50,11 @@ Hated by many, I still think this is the best browser. Download from
 # Install Emacs
 
 Install latest Emacs from Ubuntu Snap.
+
+# Tweak UI
+
+ * change keybindings for navigating between workspaces via Settings
+   -> Keyboard -> Keyboard Shortcuts
+
+ * change number of workspaces via Settings -> Multitasking ->
+   Workspaces
