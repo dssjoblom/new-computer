@@ -58,3 +58,6 @@ Install latest Emacs from Ubuntu Snap.
 
  * change number of workspaces via Settings -> Multitasking ->
    Workspaces
+
+ * disable animations (only for Ubuntu 24+) via Settings ->
+   Accessibility -> Seeing -> Reduce Animation
